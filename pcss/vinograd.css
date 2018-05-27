@@ -1,0 +1,52 @@
+h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 802px;}
+#imCell_1 { display: block; position: relative; overflow: hidden; width: 808px; min-height: 215px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_1 { position: relative; width: 802px; min-height: 209px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_1 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imTextObject_1 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_1 a { color: inherit; }
+#imTextObject_1 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_1 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 8pt; line-height: 17px; *line-height: 1.55; }
+#imTextObject_1 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_1 table td { padding: 4px 3px 4px 3px; margin: 0px;line-height: 20px;}
+#imTextObject_1 p { margin: 0; padding: 0; }
+#imTextObject_1 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_1 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_1 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_1 .imUl { text-decoration: underline; }
+#imTextObject_1 .ff0 { font-family: Tahoma; }
+#imTextObject_1 .ff1 { font-family: Tahoma; }
+#imTextObject_1 .cf1 { color: #000000; }
+#imTextObject_1 .cf2 { color: #FFFFFF; }
+#imTextObject_1 .cf3 { color: #0040FF; }
+#imTextObject_1 .cf4 { color: #000000; }
+#imTextObject_1 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_1 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_1 .fs28 { vertical-align: baseline; font-size: 14pt; line-height: 25px;}
+#imTextObject_1 .cb1 { background-color: #000000; }
+#imTextObject_1 .cb2 { background-color: transparent; }
+#imTextObject_1 .cb3 { background-color: #0040FF; }
+#imTextObject_1 .cb4 { background-color: #000000; }
+#imCell_3 { display: block; position: relative; overflow: hidden; width: 401px; min-height: 302px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_3 { position: relative; width: 395px; min-height: 296px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_3 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_4 { display: block; position: relative; overflow: hidden; width: 401px; min-height: 302px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_4 { position: relative; width: 395px; min-height: 296px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_4 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_5 { display: block; position: relative; overflow: hidden; width: 401px; min-height: 302px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_5 { position: relative; width: 395px; min-height: 296px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_5 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_6 { display: block; position: relative; overflow: hidden; width: 401px; min-height: 302px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_6 { position: relative; width: 395px; min-height: 296px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_6 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_7 { display: block; position: relative; overflow: hidden; width: 401px; min-height: 302px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_7 { position: relative; width: 395px; min-height: 296px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_7 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_8 { display: block; position: relative; overflow: hidden; width: 401px; min-height: 302px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_8 { position: relative; width: 395px; min-height: 296px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_8 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_9 { display: block; position: relative; overflow: hidden; width: 401px; min-height: 302px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_9 { position: relative; width: 395px; min-height: 296px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_9 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_10 { display: block; position: relative; overflow: hidden; width: 401px; min-height: 302px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_10 { position: relative; width: 395px; min-height: 296px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_10 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}

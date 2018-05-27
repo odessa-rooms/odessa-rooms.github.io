@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>http://www.odessa.inf.ua/index.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>always</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/contacts.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>always</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_rums.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/pogoda.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/kyrort_kuyalnik.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/imsitemap.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/transport.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/sshot-1.jpg</image:loc>
+			<image:caption><![CDATA[Рассписание маршрутка № 15 с. Котовка Новый Рынок]]></image:caption>
+			<image:geo_location><![CDATA[Рассписание маршрутка № 15 с. Котовка Новый Рынок]]></image:geo_location>
+			<image:title><![CDATA[Рассписание маршрутка № 15 с. Котовка Новый Рынок]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/sanat_kuyalnik.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>always</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/lechenie.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_kuyalnik.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_195_prichal.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_dvor.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/comments.php</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/mapnew.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_sad.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_arkadia.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-06-19.25.29.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Одесса Украина пляж Аркадия]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-06-19.35.01.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Пляж Аркадия в Одессе]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-06-19.28.54.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Пляж Аркадия в Одессе]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-06-19.30.23.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Пляж Аркадия в Одессе]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-06-20.03.16.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Пляж Аркадия в Одессе]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-06-22.10.32.jpg</image:loc>
+			<image:caption><![CDATA[Фонтан в Акадии Одесса]]></image:caption>
+			<image:geo_location><![CDATA[Фонтан в Акадии Одесса]]></image:geo_location>
+			<image:title><![CDATA[Фонтан в Акадии Одесса]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-06-20.12.17.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Пляж Аркадия в Одессе]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-06-20.12.31.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Пляж Аркадия в Одессе]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-06-22.05.02.jpg</image:loc>
+			<image:caption><![CDATA[Фонтан в Акадии Одесса]]></image:caption>
+			<image:geo_location><![CDATA[Фонтан в Акадии Одесса]]></image:geo_location>
+			<image:title><![CDATA[Фонтан в Акадии Одесса]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-06-22.06.11.jpg</image:loc>
+			<image:caption><![CDATA[Фонтан в Акадии Одесса]]></image:caption>
+			<image:geo_location><![CDATA[Фонтан в Акадии Одесса]]></image:geo_location>
+			<image:title><![CDATA[Фонтан в Акадии Одесса]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_12st_fontana.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/page-40.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_pavlovu.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-13-16.45.44.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Одесса Украина пляж Аркадия]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-13-16.24.28.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Пляж Аркадия в Одессе]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-13-16.25.14.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Пляж Аркадия в Одессе]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-13-16.45.20.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Пляж Аркадия в Одессе]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-13-16.45.26.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Пляж Аркадия в Одессе]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.odessa.inf.ua/images/2014-07-13-16.45.32.jpg</image:loc>
+			<image:caption><![CDATA[Пляж Аркадия в Одессе]]></image:caption>
+			<image:geo_location><![CDATA[Пляж Аркадия в Одессе]]></image:geo_location>
+			<image:title><![CDATA[Пляж Аркадия в Одессе]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_lyzanovka.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_195prichal.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_otrada.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/vinograd_yslygi.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>always</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/foto_vinograd.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/sagencu2.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>always</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odessa.inf.ua/fotosagencu.html</loc>
+		<lastmod>2015-06-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>

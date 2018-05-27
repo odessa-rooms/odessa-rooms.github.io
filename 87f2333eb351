@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+	<comment>
+		<email><![CDATA[test@rambler.ru]]></email>
+		<name><![CDATA[test]]></name>
+		<url><![CDATA[test]]></url>
+		<body><![CDATA[test]]></body>
+		<ip><![CDATA[46.250.7.91]]></ip>
+		<timestamp><![CDATA[2014-06-23 10:43:52]]></timestamp>
+		<abuse><![CDATA[0]]></abuse>
+		<approved><![CDATA[0]]></approved>
+		<rating><![CDATA[5]]></rating>
+	</comment>
+	<comment>
+		<email><![CDATA[aaassdd@dddd.com]]></email>
+		<name><![CDATA[test]]></name>
+		<url><![CDATA[www.odessa.inf.ua]]></url>
+		<body><![CDATA[wweerrff]]></body>
+		<ip><![CDATA[46.250.7.91]]></ip>
+		<timestamp><![CDATA[2014-06-23 10:47:02]]></timestamp>
+		<abuse><![CDATA[0]]></abuse>
+		<approved><![CDATA[1]]></approved>
+		<rating><![CDATA[5]]></rating>
+	</comment>
+</comments>

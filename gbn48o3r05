@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+	<comment>
+		<name><![CDATA[1111]]></name>
+		<email><![CDATA[111@sdsd.com]]></email>
+		<url><![CDATA[http://111]]></url>
+		<body><![CDATA[11111]]></body>
+		<abuse><![CDATA[0]]></abuse>
+		<timestamp><![CDATA[03-09-2012 23:52:09]]></timestamp>
+		<approved><![CDATA[0]]></approved>
+	</comment>
+	<comment>
+		<name><![CDATA[222]]></name>
+		<email><![CDATA[centurionservise@rambler.ru]]></email>
+		<url><![CDATA[]]></url>
+		<body><![CDATA[xczadsasdfa]]></body>
+		<abuse><![CDATA[0]]></abuse>
+		<timestamp><![CDATA[03-09-2012 23:54:05]]></timestamp>
+		<approved><![CDATA[0]]></approved>
+	</comment>
+</comments>

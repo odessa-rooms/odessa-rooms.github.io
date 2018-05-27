@@ -1,0 +1,42 @@
+<gallery width="640" height="480">
+  <video>
+    <integrate>WebSiteX5</integrate>
+    <cpindex>13305740</cpindex>
+  </video>
+  <options>
+    <guicolor>0x000000</guicolor>
+    <background>transparent</background>
+    <font>Verdana</font>
+    <fontcolor>0xffffff</fontcolor>
+    <guialpha>1</guialpha>
+    <fontsize>8</fontsize>
+    <autoplay>false</autoplay>
+    <tposition>embed</tposition>
+    <music />
+    <buttons>true</buttons>
+    <random>false</random>
+    <fullscreen>false</fullscreen>
+  </options>
+  <slides>
+    <slide url="gallery/IMG_0001.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IMG_0001_thumb.png">
+    </slide>
+    <slide url="gallery/IMG_0002.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IMG_0002_thumb.png">
+    </slide>
+    <slide url="gallery/IMG_0003.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IMG_0003_thumb.png">
+    </slide>
+    <slide url="gallery/IMG_0004.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IMG_0004_thumb.png">
+    </slide>
+    <slide url="gallery/IMG_0005.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IMG_0005_thumb.png">
+    </slide>
+    <slide url="gallery/IMG_0006.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IMG_0006_thumb.png">
+    </slide>
+    <slide url="gallery/IMG_0007.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IMG_0007_thumb.png">
+    </slide>
+    <slide url="gallery/IMG_0008.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IMG_0008_thumb.png">
+    </slide>
+    <slide url="gallery/IMG_0015.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IMG_0015_thumb.png">
+    </slide>
+    <slide url="gallery/IMG_0016.jpg" type="image" effect="" autoplay="5000" thumb="gallery/IMG_0016_thumb.png">
+    </slide>
+  </slides>
+</gallery>
